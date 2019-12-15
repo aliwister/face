@@ -1,0 +1,28 @@
+{
+  "searchbox": "Search our catalog or paste an Amazon/Ebay link",
+  "user": {
+    "profile": "Profile",
+    "signout": "Sign out",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "account": {
+      "createyouraccount": "Create your account",
+      "doyouhaveanaccount": "Do you have an account?",
+      "email": "Email",
+      "password": "Password",
+      "passwordverify": "Verify Password",
+      "firstname": "First Name",
+      "lastname": "Last Name",
+      "forgotpassword": "Forgot Password?",
+      "welcomeback": "Welcome back!",
+      "signintoyouraccount": "Sign in to your account!"
+    }
+  },
+  "form":{
+    "validation":{
+      "maxlength": "max length",
+      "required": "localized required"
+    }
+  }
+
+}

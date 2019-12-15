@@ -1,0 +1,28 @@
+{
+  "searchbox": "ابحث عن منتج او الصق وصلة امازون او ايباي",
+  "user": {
+    "profile": "الملف الشخصي",
+    "signout": "تسجيل الخروج",
+    "signin": "تسجيل الدخول",
+    "signup": "تسجيل جديد",
+    "account": {
+      "createyouraccount": "انشئ حسابا جديدا",
+      "doyouhaveanaccount": "هل لديك حساب في الموقع؟",
+      "email": "البريد الالكتروني",
+      "password": "كلمة السر",
+      "passwordverify": "تأكيد كلمة السر",
+      "firstname": "الاسم الأول",
+      "lastname": "الاسم الأخير",
+      "forgotpassword": "هل نسيت كلمة السر؟",
+      "welcomeback": "أهلا بك مرة أخرى!",
+      "signintoyouraccount": "تسجيل الدخول الى حسابك"
+    }
+  },
+  "form":{
+    "validation":{
+      "maxlength": "أطول ما يمكن",
+      "required": "اجباري"
+    }
+  }
+
+}
